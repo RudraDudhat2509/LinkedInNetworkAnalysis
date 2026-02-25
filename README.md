@@ -34,13 +34,13 @@ The goal is to treat professional networking as a measurable graph system rather
 ## System Architecture
 
 LinkedIn CSV Export
-↓
+->
 Data Cleaning & Normalization
-↓
+->
 Feature Engineering
-↓
+->
 Growth & Diversity Metrics
-↓
+->
 Visualization & Structural Insights
 
 ---
